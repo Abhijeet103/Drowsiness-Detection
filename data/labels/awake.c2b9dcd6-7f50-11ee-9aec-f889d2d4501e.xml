@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images2</folder>
+	<filename>awake.c2b9dcd6-7f50-11ee-9aec-f889d2d4501e.jpg</filename>
+	<path>C:\Users\disco\PycharmProjects\DrowsinessDetection\data\images2\awake.c2b9dcd6-7f50-11ee-9aec-f889d2d4501e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>awake</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>26</ymin>
+			<xmax>640</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>
