@@ -3,9 +3,9 @@ import os
 import time
 import cv2
 
-IMAGES_PATH = os.path.join('data', 'images2') #/data/images
+IMAGES_PATH = os.path.join('data', 'images') #/data/images
 labels = ['awake', 'drowsy']
-number_imgs = 20
+number_imgs = 30
 
 print(IMAGES_PATH)
 
